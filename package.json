@@ -1,0 +1,84 @@
+{
+  "name": "women-safety-app",
+  "version": "1.0.0",
+  "description": "A comprehensive cross-platform Women Safety Mobile Application with emergency features, location tracking, and community alerts",
+  "main": "node_modules/expo/AppEntry.js",
+  "author": "Women Safety Team",
+  "license": "MIT",
+  "keywords": [
+    "women-safety",
+    "emergency",
+    "react-native",
+    "expo",
+    "location-tracking",
+    "safety-app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/women-safety-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/women-safety-app/issues"
+  },
+  "homepage": "https://github.com/yourusername/women-safety-app#readme",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build:android": "expo build:android",
+    "build:ios": "expo build:ios",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "format": "prettier --write .",
+    "clean": "expo r -c",
+    "reset": "expo r -c && npm install"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@react-navigation/bottom-tabs": "^6.5.8",
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/stack": "^6.3.17",
+    "expo": "~49.0.0",
+    "expo-av": "~13.4.1",
+    "expo-camera": "~13.4.4",
+    "expo-contacts": "~12.3.0",
+    "expo-crypto": "~12.4.1",
+    "expo-device-motion": "~11.4.0",
+    "expo-haptics": "~12.4.0",
+    "expo-location": "~16.1.0",
+    "expo-phone-call": "~1.0.0",
+    "expo-secure-store": "~12.3.1",
+    "expo-sms": "~11.5.0",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-background-job": "^1.2.0",
+    "react-native-encrypted-storage": "^4.0.3",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-keep-awake": "^2.0.3",
+    "react-native-permissions": "^3.8.4",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-shake": "^4.0.0",
+    "react-native-super-grid": "^4.9.6",
+    "react-native-svg": "^13.14.0",
+    "react-native-webview": "^13.6.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0",
+    "eslint": "^8.0.0",
+    "eslint-config-expo": "^7.0.0",
+    "jest": "^29.0.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "private": true
+}
