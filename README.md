@@ -10,7 +10,7 @@ A comprehensive cross-platform Women Safety Mobile Application built with React 
 ## 🌟 Features
 
 ### 🚨 Emergency Features
-- **SOS Button**: One-tap emergency alert with GPS location
+- **SOS Button**: One-tap emergency alert with GPS location 
 - **Panic Gesture**: Shake device to trigger emergency mode
 - **Stealth Mode**: Disguise app icon and hide from recent apps
 - **Audio/Video Recording**: Capture evidence during emergencies
@@ -19,7 +19,7 @@ A comprehensive cross-platform Women Safety Mobile Application built with React 
 - **Live Location Tracking**: Share real-time location with trusted contacts
 - **Safe Route Planning**: Find safest routes using OpenStreetMap
 - **Nearby Help**: Locate hospitals, police stations, and safe zones
-- **Community Alerts**: Flag unsafe areas and view recent alerts
+- **Community Alerts**: Flag unsafe areas and view recent Alerts
 
 ### 👥 Contact Management
 - **Trusted Contacts**: Add emergency contacts with quick access
@@ -194,5 +194,6 @@ If you encounter any issues or have questions:
 ---
 
 **⚠️ Important**: This app is designed for emergency situations. Always test features in a safe environment and ensure emergency contacts are properly configured.
+
 
 **🔒 Privacy**: All data is stored locally on your device. No personal information is shared without your explicit consent.
